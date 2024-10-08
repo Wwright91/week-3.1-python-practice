@@ -3,3 +3,4 @@ venv
 .env
 .flaskenv
 Unconfirmed 337264.crdownload
+.venv
